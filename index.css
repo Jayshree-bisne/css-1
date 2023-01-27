@@ -1,0 +1,47 @@
+h1{
+    color: crimson;
+}
+h2{
+    color: crimson;
+    font-style: italic;
+}
+ol{
+    color: brown;
+
+}
+.para1{
+    text-decoration: line-through;
+}
+.para2{
+    background-color: yellow;
+    font-weight: bold;
+}
+h3{
+    color: crimson;
+    font-style: italic;
+}
+ul{
+    color: brown;
+    
+}
+.para3{
+    background-color: yellow;
+}
+.para4{
+    word-spacing: 5px;
+    letter-spacing: 5px;
+    font-weight: bold;
+}
+p{
+    color: brown;
+}
+a{
+    color: brown;
+}
+.link{
+    text-decoration: none;
+}
+link
+{
+  https://www.prepbytes.com
+}
